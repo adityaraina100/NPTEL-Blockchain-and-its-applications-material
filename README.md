@@ -1,1 +1,1 @@
-# NPTEL-Blockchain-and-its-applications-material
+This is a repository which contains all teh study material and assignment solutions of the course Blockchain and its Applications-created under the NPTEL organization.Hope this repository helps you guys to get all the data at a single point.
